@@ -30,9 +30,8 @@ Um sistema bancário bem completo para o nosso cliente, feito totalmente em Type
 
 ##  🧒 Quem Fez 
 
-- <a href=https://github.com/DiegoRiosS-dev>Diego Rios Santos</a>
-- <a href=https://github.com/josemorcelli>José Augusto Pereira Morcelli</a>
-- <a href=https://github.com/M-Emmanuel-G>Marcio Emmanuel</a>
+|  [<img src="https://avatars.githubusercontent.com/u/99925453?v=4" width=115><br><sub>Diego Rios Santos</sub>](https://github.com/DiegoRiosS-dev) | [<img src="https://avatars.githubusercontent.com/u/102266417?v=4" width=115><br><sub>José Augusto Pereira Morcelli</sub>](https://github.com/josemorcelli) |  [<img src="https://avatars.githubusercontent.com/u/100731829?v=4" width=115><br><sub>Marcio Emmanuel</sub>](https://github.com/M-Emmanuel-G) |
+| :-----: | :-----: | :-----: |
 
 ---
 ##  🧭Status do Projeto
